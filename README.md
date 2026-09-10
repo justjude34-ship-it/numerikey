@@ -14,6 +14,7 @@ Live previews:
 - [Haven](https://haven-cbt-adhd-support.grok.me) — ADHD / RSD companion
 - [Nova](https://adhdmate.grok.me) — daily ADHD companion (focus, tasks, mood)
 - [Room to Breathe](https://room-to-breathe.grok.me) — declutter with Mira
+- [Still House](https://feng-shui.grok.me) — feng shui companion for the rooms you live in — $39
 - [Assertive Voice](https://assert-yourself.grok.me) — 10-module assertiveness course
 - [Bloom Within](https://bloom-within-one.grok.me) — self-acceptance lessons and journal — $29
 - [Numera Plus](https://numera-plus.vercel.app/numera/) — Phillips Pythagorean birth chart
