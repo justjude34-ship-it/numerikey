@@ -18,7 +18,7 @@ Live previews:
 - [Bloom Within](https://bloom-within-one.grok.me) — self-acceptance lessons and journal — $29
 - [Numera Plus](https://numera-plus.vercel.app/numera/) — Phillips Pythagorean birth chart
 - [Pythagorean Numerology](https://goodwin.grok.me) — Goodwin chart caster — be your own numerologist
-- [Paws of Destiny](https://my-pet.grok.me) — pet numerology — $29
+- [Paws of Destiny](https://my-pet.grok.me) — pet numerology — $39
 - [Cosmic Tide](https://astrology-susan.netlify.app) — practical astrology inspired by Susan Miller
 - [Spirit Breath](https://spirit-breath.vercel.app) — guided spiritual breathing
 - [Indomita](https://indomita-five.netlify.app) — pattern-recognition companion — $29
