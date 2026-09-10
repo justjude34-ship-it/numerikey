@@ -14,6 +14,7 @@ Live previews:
 - [Nova](https://adhdmate.grok.me) — daily ADHD companion (focus, tasks, mood)
 - [Room to Breathe](https://room-to-breathe.grok.me) — declutter with Mira
 - [Assertive Voice](https://assert-yourself.grok.me) — 10-module assertiveness course
+- [Bloom Within](https://bloom-within-one.grok.me) — self-acceptance lessons and journal — $29
 - [Numera Plus](https://numera-plus.vercel.app/numera/) — Phillips Pythagorean birth chart
 - [Pythagorean Numerology](https://goodwin.grok.me) — Goodwin chart caster — be your own numerologist
 - [Cosmic Tide](https://astrology-susan.netlify.app) — practical astrology inspired by Susan Miller
