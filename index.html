@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Numerikey — buy once, own forever</title>
+  <meta name="description" content="Offline progressive web apps for numerology, breathwork, wellness, and self-help. Buy once. Own forever. No subscription." />
+  <meta name="theme-color" content="#07080c" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #07080c;
+      --card: #10131b;
+      --ink: #f4efe6;
+      --muted: #b7b0a4;
+      --gold: #d4b46a;
+      --line: rgba(212,180,106,.22);
+      --teal: #7ec8c0;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; background: var(--bg); color: var(--ink); font-family: Outfit, system-ui, sans-serif; }
+    body {
+      min-height: 100dvh;
+      background:
+        radial-gradient(1200px 600px at 80% -10%, rgba(126,200,192,.12), transparent 55%),
+        radial-gradient(900px 500px at -10% 20%, rgba(212,180,106,.08), transparent 50%),
+        var(--bg);
+    }
+    a { color: inherit; }
+    header, main, footer { width: min(1100px, calc(100% - 2rem)); margin-inline: auto; }
+    header { display: flex; justify-content: space-between; align-items: center; padding: 1.4rem 0 0; }
+    .brand { font-family: "Cormorant Garamond", serif; font-size: 1.6rem; letter-spacing: .04em; }
+    .brand span { color: var(--gold); }
+    nav { display: flex; gap: 1.1rem; color: var(--muted); font-size: .92rem; }
+    nav a { text-decoration: none; }
+    .hero { padding: 4.2rem 0 2.4rem; }
+    .hero h1 {
+      font-family: "Cormorant Garamond", serif;
+      font-size: clamp(2.6rem, 7vw, 5.1rem);
+      line-height: .95;
+      margin: 0 0 1rem;
+      max-width: 14ch;
+    }
+    .hero p { max-width: 38rem; color: var(--muted); font-size: 1.08rem; line-height: 1.55; }
+    .pills { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: 1.4rem; }
+    .pill {
+      border: 1px solid var(--line);
+      color: var(--gold);
+      border-radius: 999px;
+      padding: .35rem .75rem;
+      font-size: .78rem;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+    .grid { display: grid; gap: 1rem; grid-template-columns: 1fr; padding-bottom: 3.5rem; }
+    @media (min-width: 720px) { .grid { grid-template-columns: 1fr 1fr; } .hero-card { grid-column: 1 / -1; } }
+    .card {
+      background: linear-gradient(180deg, rgba(255,255,255,.03), transparent 40%), var(--card);
+      border: 1px solid var(--line);
+      border-radius: 1.35rem;
+      padding: 1.35rem 1.3rem 1.2rem;
+      display: flex; flex-direction: column; gap: .7rem; min-height: 100%;
+    }
+    .hero-card { padding: 1.7rem 1.5rem 1.4rem; }
+    .kicker { color: var(--teal); font-size: .78rem; letter-spacing: .12em; text-transform: uppercase; }
+    h2 { font-family: "Cormorant Garamond", serif; font-size: 1.85rem; margin: 0; }
+    .card p { margin: 0; color: var(--muted); line-height: 1.5; }
+    .meta { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; }
+    .price { color: var(--gold); font-weight: 600; }
+    .note { font-size: .78rem; color: #8d877c; }
+    .actions { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: auto; padding-top: .4rem; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center;
+      text-decoration: none; border-radius: 999px; padding: .7rem 1.05rem; font-size: .92rem;
+      border: 1px solid transparent;
+    }
+    .btn-gold { background: var(--gold); color: #1a1408; font-weight: 600; }
+    .btn-ghost { border-color: var(--line); color: var(--ink); }
+    .soon { opacity: .55; pointer-events: none; }
+    .about, .soon-note { color: var(--muted); line-height: 1.6; max-width: 44rem; }
+    footer { border-top: 1px solid var(--line); padding: 1.6rem 0 2.4rem; color: #8d877c; font-size: .82rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">Numeri<span>key</span></div>
+    <nav>
+      <a href="#apps">Apps</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero">
+      <h1>Tools you keep. Quietly yours.</h1>
+      <p>Progressive web apps for numerology, breath, sleep, and hard days. They live on your phone. No account required to use the tools. Buy once, own forever — no subscription.</p>
+      <div class="pills">
+        <span class="pill">Offline-first</span>
+        <span class="pill">AUD pricing</span>
+        <span class="pill">Not therapy</span>
+      </div>
+    </section>
+
+    <section id="apps" class="grid">
+      <article class="card hero-card">
+        <div class="kicker">Hero · Sleep &amp; calm</div>
+        <div class="meta"><h2>Still</h2><div class="price">$39 AUD</div></div>
+        <p>Binaural beds, bronze chimes, ocean breath, and a quiet studio for sleep, calm, anxiety, and focus. Add to Home Screen and keep it.</p>
+        <div class="actions">
+          <a class="btn btn-gold" href="https://still-one-alpha.vercel.app" target="_blank" rel="noopener">Try Still</a>
+          <span class="btn btn-ghost soon">Buy coming soon</span>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="kicker">Bilateral stimulation</div>
+        <div class="meta"><h2>Lumina</h2><div class="price">$39 AUD</div></div>
+        <p>Rainbow eye-tracking and butterfly-hug stimulation on pure black. Private, on-device. A self-help tool — not licensed EMDR therapy.</p>
+        <div class="actions">
+          <a class="btn btn-gold" href="https://lumina-emdr.grok.me" target="_blank" rel="noopener">Try Lumina</a>
+          <span class="btn btn-ghost soon">Buy coming soon</span>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="kicker">ADHD &amp; RSD</div>
+        <div class="meta"><h2>Haven</h2><div class="price">$39 AUD</div></div>
+        <p>A sheltered harbour for task paralysis and rejection sting. Check-ins, tiny-step unfreeze, RSD first aid, thought records, and a companion who stays on your device.</p>
+        <div class="actions">
+          <a class="btn btn-gold" href="https://haven-cbt-adhd-support.grok.me" target="_blank" rel="noopener">Try Haven</a>
+          <span class="btn btn-ghost soon">Buy coming soon</span>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="kicker">Numerology</div>
+        <div class="meta"><h2>Numera Plus</h2><div class="price">$59 AUD</div></div>
+        <p>Pythagorean birth-chart decoder through the teachings of David A. Phillips. Do the reading yourself, on your own phone.</p>
+        <div class="actions">
+          <a class="btn btn-gold" href="https://numera-plus.vercel.app/numera/" target="_blank" rel="noopener">Try Numera Plus</a>
+          <span class="btn btn-ghost soon">Buy coming soon</span>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="kicker">Breathwork</div>
+        <div class="meta"><h2>Spirit Breath</h2><div class="price">$39 AUD</div></div>
+        <p>Guided spiritual breathing inspired by Dan Brulé. Dark studio, rainbow energy, techniques you can return to.</p>
+        <div class="actions">
+          <a class="btn btn-gold" href="https://spirit-breath.vercel.app" target="_blank" rel="noopener">Try Spirit Breath</a>
+          <span class="btn btn-ghost soon">Buy coming soon</span>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="kicker">Self-help companion</div>
+        <div class="meta"><h2>Indomita</h2><div class="price">$39 AUD</div></div>
+        <p>Pattern recognition and grounding tools for narcissistic manipulation. Runs on the device. Supportive — not a substitute for care.</p>
+        <div class="actions">
+          <a class="btn btn-gold" href="https://indomita-five.netlify.app" target="_blank" rel="noopener">Try Indomita</a>
+          <span class="btn btn-ghost soon">Buy coming soon</span>
+        </div>
+      </article>
+    </section>
+
+    <section id="about">
+      <h2>About</h2>
+      <p class="about">Numerikey is a small Australian catalogue of apps made to help without locking anyone into a subscription. You try the demo, then you buy a copy you keep. Checkout is being connected next (ABN, then Stripe).</p>
+      <p class="soon-note">Haven, Lumina, and Indomita are self-help tools. They are not therapy, diagnosis, or crisis services. If you are in danger in Australia, call 000. Lifeline is 13 11 14.</p>
+    </section>
+  </main>
+  <footer>
+    © 2026 Numerikey · numerikey.com · Made to be affordable, private, and yours.
+  </footer>
+</body>
+</html>

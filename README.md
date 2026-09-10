@@ -1,0 +1,18 @@
+# Numerikey
+
+Storefront for offline progressive web apps — numerology, breathwork, wellness, and self-help tools.
+
+**Buy once. Own forever. No subscription.**
+
+Live previews:
+
+- [Still](https://still-one-alpha.vercel.app) — sleep, calm, quiet mind
+- [Lumina EMDR](https://lumina-emdr.grok.me) — bilateral stimulation
+- [Haven](https://haven-cbt-adhd-support.grok.me) — ADHD / RSD companion
+- [Numera Plus](https://numera-plus.vercel.app/numera/) — Pythagorean birth chart
+- [Spirit Breath](https://spirit-breath.vercel.app) — guided spiritual breathing
+- [Indomita](https://indomita-five.netlify.app) — pattern-recognition companion
+
+Checkout (Stripe) comes after ABN setup. This first version is a static catalogue.
+
+Self-help apps are supportive tools, not therapy and not a substitute for a trained clinician.
