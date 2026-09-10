@@ -17,6 +17,7 @@ Live previews:
 - [Still House](https://feng-shui.grok.me) — feng shui companion for the rooms you live in — $39
 - [Assertive Voice](https://assert-yourself.grok.me) — 10-module assertiveness course
 - [Bloom Within](https://bloom-within-one.grok.me) — self-acceptance lessons and journal — $29
+- [Testimony](https://my-testimony-one.netlify.app) — write your story into a book — $39
 - [Numera Plus](https://numera-plus.vercel.app/numera/) — Phillips Pythagorean birth chart
 - [Pythagorean Numerology](https://goodwin.grok.me) — Goodwin chart caster — be your own numerologist
 - [Paws of Destiny](https://my-pet.grok.me) — pet numerology — $39
