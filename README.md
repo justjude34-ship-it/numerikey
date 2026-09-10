@@ -18,8 +18,9 @@ Live previews:
 - [Pythagorean Numerology](https://goodwin.grok.me) — Goodwin chart caster — be your own numerologist
 - [Cosmic Tide](https://astrology-susan.netlify.app) — practical astrology inspired by Susan Miller
 - [Spirit Breath](https://spirit-breath.vercel.app) — guided spiritual breathing
-- [Indomita](https://indomita-five.netlify.app) — pattern-recognition companion
-- [Narc Escape Guide](https://narc-escape-guide.grok.me) — pattern guide for narcissistic abuse
+- [Indomita](https://indomita-five.netlify.app) — pattern-recognition companion — $29
+- [Narc Escape Guide](https://narc-escape-guide.grok.me) — pattern guide — $29
+- [Lantern](https://lantern.grok.me) — relationship patterns, grounding, safety plan — $29
 
 Checkout (Stripe) comes after ABN setup. This first version is a static catalogue.
 
