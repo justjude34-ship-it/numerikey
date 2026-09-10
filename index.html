@@ -6,6 +6,7 @@
   <title>Numerikey — buy once, own forever</title>
   <meta name="description" content="Offline progressive web apps for numerology, breathwork, wellness, and self-help. Buy once. Own forever. No subscription." />
   <meta name="theme-color" content="#07080c" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet" />
@@ -69,7 +70,6 @@
     .card p { margin: 0; color: var(--muted); line-height: 1.5; }
     .meta { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; }
     .price { color: var(--gold); font-weight: 600; }
-    .note { font-size: .78rem; color: #8d877c; }
     .actions { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: auto; padding-top: .4rem; }
     .btn {
       display: inline-flex; align-items: center; justify-content: center;
@@ -104,7 +104,7 @@
 
     <section id="apps" class="grid">
       <article class="card hero-card">
-        <div class="kicker">Hero · Sleep &amp; calm</div>
+        <div class="kicker">Hero · Sleep & calm</div>
         <div class="meta"><h2>Still</h2><div class="price">$39 AUD</div></div>
         <p>Binaural beds, bronze chimes, ocean breath, and a quiet studio for sleep, calm, anxiety, and focus. Add to Home Screen and keep it.</p>
         <div class="actions">
@@ -124,11 +124,21 @@
       </article>
 
       <article class="card">
-        <div class="kicker">ADHD &amp; RSD</div>
+        <div class="kicker">ADHD & RSD</div>
         <div class="meta"><h2>Haven</h2><div class="price">$39 AUD</div></div>
         <p>A sheltered harbour for task paralysis and rejection sting. Check-ins, tiny-step unfreeze, RSD first aid, thought records, and a companion who stays on your device.</p>
         <div class="actions">
           <a class="btn btn-gold" href="https://haven-cbt-adhd-support.grok.me" target="_blank" rel="noopener">Try Haven</a>
+          <span class="btn btn-ghost soon">Buy coming soon</span>
+        </div>
+      </article>
+
+      <article class="card">
+        <div class="kicker">ADHD daily</div>
+        <div class="meta"><h2>Nova</h2><div class="price">$39 AUD</div></div>
+        <p>A colourful ADHD companion for focus sprints, body-double timers, tiny-step tasks, and mood. Structure without shame. Stays on the phone.</p>
+        <div class="actions">
+          <a class="btn btn-gold" href="https://adhdmate.grok.me" target="_blank" rel="noopener">Try Nova</a>
           <span class="btn btn-ghost soon">Buy coming soon</span>
         </div>
       </article>
@@ -167,7 +177,7 @@
     <section id="about">
       <h2>About</h2>
       <p class="about">Numerikey is a small Australian catalogue of apps made to help without locking anyone into a subscription. You try the demo, then you buy a copy you keep. Checkout is being connected next (ABN, then Stripe).</p>
-      <p class="soon-note">Haven, Lumina, and Indomita are self-help tools. They are not therapy, diagnosis, or crisis services. If you are in danger in Australia, call 000. Lifeline is 13 11 14.</p>
+      <p class="soon-note">Haven, Nova, Lumina, and Indomita are self-help tools. They are not therapy, diagnosis, or crisis services. If you are in danger in Australia, call 000. Lifeline is 13 11 14.</p>
     </section>
   </main>
   <footer>
