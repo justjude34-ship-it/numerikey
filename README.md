@@ -13,8 +13,9 @@ Live previews:
 - [Haven](https://haven-cbt-adhd-support.grok.me) — ADHD / RSD companion
 - [Nova](https://adhdmate.grok.me) — daily ADHD companion (focus, tasks, mood)
 - [Room to Breathe](https://room-to-breathe.grok.me) — declutter with Mira
+- [Assertive Voice](https://assert-yourself.grok.me) — 10-module assertiveness course
 - [Numera Plus](https://numera-plus.vercel.app/numera/) — Phillips Pythagorean birth chart
-- [Goodwin Readings](https://goodwin.grok.me) — Matthew Oliver Goodwin chart caster
+- [Pythagorean Numerology](https://goodwin.grok.me) — Goodwin chart caster — be your own numerologist
 - [Cosmic Tide](https://astrology-susan.netlify.app) — practical astrology inspired by Susan Miller
 - [Spirit Breath](https://spirit-breath.vercel.app) — guided spiritual breathing
 - [Indomita](https://indomita-five.netlify.app) — pattern-recognition companion
