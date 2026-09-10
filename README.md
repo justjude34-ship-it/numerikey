@@ -21,6 +21,7 @@ Live previews:
 - [Indomita](https://indomita-five.netlify.app) — pattern-recognition companion — $29
 - [Narc Escape Guide](https://narc-escape-guide.grok.me) — pattern guide — $29
 - [Lantern](https://lantern.grok.me) — relationship patterns, grounding, safety plan — $29
+- [Rise](https://rise-beyond.grok.me) — detour not destination — $29
 
 Checkout (Stripe) comes after ABN setup. This first version is a static catalogue.
 
