@@ -14,6 +14,7 @@ Live previews:
 - [Room to Breathe](https://room-to-breathe.grok.me) — declutter with Mira
 - [Numera Plus](https://numera-plus.vercel.app/numera/) — Phillips Pythagorean birth chart
 - [Goodwin Readings](https://goodwin.grok.me) — Matthew Oliver Goodwin chart caster
+- [Cosmic Tide](https://astrology-susan.netlify.app) — practical astrology inspired by Susan Miller
 - [Spirit Breath](https://spirit-breath.vercel.app) — guided spiritual breathing
 - [Indomita](https://indomita-five.netlify.app) — pattern-recognition companion
 
