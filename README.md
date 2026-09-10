@@ -10,6 +10,7 @@ Live previews:
 - [Lumina EMDR](https://lumina-emdr.grok.me) — bilateral stimulation
 - [Haven](https://haven-cbt-adhd-support.grok.me) — ADHD / RSD companion
 - [Nova](https://adhdmate.grok.me) — daily ADHD companion (focus, tasks, mood)
+- [Room to Breathe](https://room-to-breathe.grok.me) — declutter with Mira
 - [Numera Plus](https://numera-plus.vercel.app/numera/) — Pythagorean birth chart
 - [Spirit Breath](https://spirit-breath.vercel.app) — guided spiritual breathing
 - [Indomita](https://indomita-five.netlify.app) — pattern-recognition companion
