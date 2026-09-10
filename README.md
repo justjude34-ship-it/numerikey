@@ -8,7 +8,8 @@ Live previews:
 
 - [Still](https://still-one-alpha.vercel.app) — sleep, calm, quiet mind
 - [Resonance](https://resonance-one.netlify.app) — adaptive breathwork studio
-- [AuraFlow Plus](https://auraflow-plus.grok.me) — nature and binaural mixer
+- [AuraFlow](https://auraflow.grok.me) — solfeggio and binaural studio — $29
+- [AuraFlow Plus](https://auraflow-plus.grok.me) — nature and binaural mixer — $39
 - [Lumina EMDR](https://lumina-emdr.grok.me) — bilateral stimulation
 - [Haven](https://haven-cbt-adhd-support.grok.me) — ADHD / RSD companion
 - [Nova](https://adhdmate.grok.me) — daily ADHD companion (focus, tasks, mood)
