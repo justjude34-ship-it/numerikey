@@ -1,4 +1,4 @@
-# Numerikey
+# Numerakey
 
 Storefront for offline progressive web apps — numerology, breathwork, wellness, and self-help tools.
 
