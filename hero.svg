@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1283" width="900" height="1283" role="img" aria-labelledby="t">
+  <title id="t">NumeraKey — the key to your numbers</title>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="62%" r="75%">
+      <stop offset="0" stop-color="#6b1a48"/>
+      <stop offset=".45" stop-color="#3a0a28"/>
+      <stop offset="1" stop-color="#1a0512"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6e7b0"/>
+      <stop offset=".45" stop-color="#d4b46a"/>
+      <stop offset="1" stop-color="#9a7428"/>
+    </linearGradient>
+    <radialGradient id="heart" cx="50%" cy="45%" r="60%">
+      <stop offset="0" stop-color="#fff6c8"/>
+      <stop offset=".35" stop-color="#f0a0c8"/>
+      <stop offset="1" stop-color="#c44a88"/>
+    </radialGradient>
+    <linearGradient id="ray" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#ffe27a" stop-opacity=".95"/>
+      <stop offset=".35" stop-color="#f0a0e0" stop-opacity=".55"/>
+      <stop offset=".7" stop-color="#7ec8ff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#7ec8ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1283" fill="url(#bg)"/>
+  <g transform="translate(450,780)" opacity=".9">
+    <polygon points="0,0 -28,-520 28,-520" fill="url(#ray)"/>
+    <polygon points="0,0 -90,-500 -40,-510" fill="#ffb36a" opacity=".28"/>
+    <polygon points="0,0 90,-500 40,-510" fill="#9ad0ff" opacity=".28"/>
+    <polygon points="0,0 -160,-470 -110,-490" fill="#ff7aa8" opacity=".22"/>
+    <polygon points="0,0 160,-470 110,-490" fill="#7dffc4" opacity=".2"/>
+    <polygon points="0,0 -230,-420 -180,-450" fill="#c77dff" opacity=".18"/>
+    <polygon points="0,0 230,-420 180,-450" fill="#ffe27a" opacity=".18"/>
+  </g>
+  <text x="450" y="220" text-anchor="middle" font-family="Georgia, 'Palatino Linotype', serif" font-size="92" fill="#f4e6c0">NumeraKey</text>
+  <g stroke="#d4b46a" stroke-width="1.2" fill="none" opacity=".7">
+    <line x1="300" y1="268" x2="420" y2="268"/>
+    <line x1="480" y1="268" x2="600" y2="268"/>
+    <polygon points="450,258 456,268 450,278 444,268" fill="#d4b46a" stroke="none"/>
+  </g>
+  <g transform="translate(450,790)">
+    <ellipse cx="0" cy="210" rx="90" ry="18" fill="#000" opacity=".28"/>
+    <rect x="-16" y="20" width="32" height="210" rx="8" fill="url(#gold)"/>
+    <path d="M16 196 h52 v28 h-22 v22 h-30 z" fill="url(#gold)"/>
+    <path d="M0,-8 C-78,-118 -188,-28 -78,62 L0,138 L78,62 C188,-28 78,-118 0,-8 Z" fill="url(#gold)"/>
+    <path d="M0,18 C-42,-48 -98,-8 -42,48 L0,88 L42,48 C98,-8 42,-48 0,18 Z" fill="url(#heart)"/>
+    <circle cx="0" cy="48" r="16" fill="#fff6c8" opacity=".85"/>
+  </g>
+  <text x="450" y="1168" text-anchor="middle" font-family="Georgia, 'Palatino Linotype', serif" font-size="32" fill="#ead9b0">the key to your numbers</text>
+  <g stroke="#d4b46a" stroke-width="1" fill="none" opacity=".65">
+    <line x1="330" y1="1198" x2="428" y2="1198"/>
+    <line x1="472" y1="1198" x2="570" y2="1198"/>
+    <polygon points="450,1190 455,1198 450,1206 445,1198" fill="#d4b46a" stroke="none"/>
+  </g>
+</svg>
