@@ -1,0 +1,19 @@
+{
+  "name": "Numera Chaldean",
+  "short_name": "Chaldean",
+  "description": "A complete Chaldean numerology reading in the tradition of Dr J. C. Chaudhry. Psychic, Destiny, Name, Lo Shu, and timing — stays on this phone.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07080c",
+  "theme_color": "#07080c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
